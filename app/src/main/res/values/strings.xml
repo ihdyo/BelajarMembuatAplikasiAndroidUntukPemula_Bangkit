@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Gengsin Impek</string>
+    <string name="anemo">Anemo</string>
+    <string name="cryo">Cryo</string>
+    <string name="dendro">Dendro</string>
+    <string name="electro">Electro</string>
+    <string name="geo">Geo</string>
+    <string name="hydro">Hydro</string>
+    <string name="pyro">Pyro</string>
+
+    <string name="bow">Bow</string>
+    <string name="catalyst">Catalyst</string>
+    <string name="claymore">Claymore</string>
+    <string name="polearm">Polearm</string>
+    <string name="sword">Sword</string>
+
+    <string name="inazuma">Inazuma</string>
+    <string name="liyue">Liyue</string>
+    <string name="mondstadt">Mondtsadt</string>
+    <string name="sumeru">Sumeru</string>
+
+    <string name="detail">Detail</string>
+    <string name="region">Region</string>
+    <string name="weapon">Weapon</string>
+    <string name="element">Element</string>
+    <string name="constellation">Constellation</string>
+    <string name="birthday">Birthday</string>
+    <string name="genshin_impact_character">Genshin Impact Character</string>
+    <string name="patch">Patch 3.2</string>
+    <string name="blank">-</string>
+    <string name="name">Yodhi Anugrah Damar Saputra</string>
+    <string name="email">yodhianugrah23@gmail.com</string>
+</resources>

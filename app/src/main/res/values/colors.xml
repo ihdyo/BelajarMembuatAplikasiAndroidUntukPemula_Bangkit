@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="anemo">#FF74C2A8</color>
+    <color name="cryo">#FF9Fd6E3</color>
+    <color name="dendro">#FFA5C83B</color>
+    <color name="electro">#FFAF8EC1</color>
+    <color name="geo">#FFFAB632</color>
+    <color name="hydro">#FF4CC2F1</color>
+    <color name="pyro">#FFEF7938</color>
+
+    <color name="alt_anemo">#FF3EB6B9</color>
+    <color name="alt_cryo">#FF6AC9DB</color>
+    <color name="alt_dendro">#FF749F3C</color>
+    <color name="alt_electro">#FF8558B2</color>
+    <color name="alt_geo">#FFBE9946</color>
+    <color name="alt_hydro">#FF3A75BC</color>
+    <color name="alt_pyro">#FFBC6243</color>
+
+    <color name="primary">#FF4771A6</color>
+    <color name="secondary">#6FA1E1</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#313335</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>
